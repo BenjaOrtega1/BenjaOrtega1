@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="190" viewBox="0 0 560 190" role="img" aria-labelledby="title desc">
+  <title id="title">Lenguajes y enfoque técnico de Benjamin Ortega</title>
+  <desc id="desc">TypeScript, JavaScript, C++ y Shell aparecen en los repositorios públicos.</desc>
+  <rect x="1" y="1" width="558" height="188" rx="18" fill="#FFFFFF" stroke="#D0D7DE"/>
+  <rect x="24" y="24" width="4" height="34" rx="2" fill="#007F9E"/>
+  <text x="42" y="44" fill="#1F2328" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">Lenguajes y enfoque</text>
+  <text x="42" y="63" fill="#57606A" font-family="Segoe UI,Arial,sans-serif" font-size="11">Tecnologías visibles en los repositorios públicos</text>
+
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="12">
+    <rect x="26" y="91" width="118" height="30" rx="15" fill="#F6F8FA" stroke="#3178C6"/>
+    <circle cx="43" cy="106" r="5" fill="#3178C6"/>
+    <text x="55" y="110" fill="#24292F">TypeScript</text>
+
+    <rect x="156" y="91" width="122" height="30" rx="15" fill="#F6F8FA" stroke="#B99C00"/>
+    <circle cx="173" cy="106" r="5" fill="#F1E05A"/>
+    <text x="185" y="110" fill="#24292F">JavaScript</text>
+
+    <rect x="290" y="91" width="86" height="30" rx="15" fill="#F6F8FA" stroke="#F34B7D"/>
+    <circle cx="307" cy="106" r="5" fill="#F34B7D"/>
+    <text x="319" y="110" fill="#24292F">C++</text>
+
+    <rect x="388" y="91" width="82" height="30" rx="15" fill="#F6F8FA" stroke="#65A336"/>
+    <circle cx="405" cy="106" r="5" fill="#89E051"/>
+    <text x="417" y="110" fill="#24292F">Shell</text>
+  </g>
+
+  <line x1="26" y1="143" x2="534" y2="143" stroke="#D8DEE4"/>
+  <text x="26" y="164" fill="#007F9E" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">React + Supabase</text>
+  <text x="157" y="164" fill="#57606A" font-family="Segoe UI,Arial,sans-serif" font-size="12">·</text>
+  <text x="177" y="164" fill="#E33333" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">IoT + MQTT</text>
+  <text x="274" y="164" fill="#57606A" font-family="Segoe UI,Arial,sans-serif" font-size="12">·</text>
+  <text x="294" y="164" fill="#1F2328" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">Experiencias 3D</text>
+</svg>

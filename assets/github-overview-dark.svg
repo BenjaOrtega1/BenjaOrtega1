@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="190" viewBox="0 0 560 190" role="img" aria-labelledby="title desc">
+  <title id="title">Resumen de GitHub de Benjamin Ortega</title>
+  <desc id="desc">Siete repositorios públicos, cinco proyectos destacados y tres áreas principales.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00C8FF"/>
+      <stop offset="1" stop-color="#FF3B3B"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="558" height="188" rx="18" fill="#0D1117" stroke="#30363D"/>
+  <rect x="24" y="24" width="4" height="34" rx="2" fill="url(#line)"/>
+  <text x="42" y="44" fill="#E8EDF2" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">GitHub en números</text>
+  <text x="42" y="63" fill="#89939E" font-family="Segoe UI,Arial,sans-serif" font-size="11">Resumen del perfil público</text>
+
+  <g transform="translate(26 91)">
+    <rect width="150" height="72" rx="12" fill="#12171D" stroke="#26303A"/>
+    <text x="18" y="31" fill="#00C8FF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">7</text>
+    <text x="18" y="53" fill="#C9D1D9" font-family="Segoe UI,Arial,sans-serif" font-size="12">repositorios públicos</text>
+  </g>
+  <g transform="translate(205 91)">
+    <rect width="150" height="72" rx="12" fill="#12171D" stroke="#26303A"/>
+    <text x="18" y="31" fill="#FF3B3B" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">5</text>
+    <text x="18" y="53" fill="#C9D1D9" font-family="Segoe UI,Arial,sans-serif" font-size="12">proyectos destacados</text>
+  </g>
+  <g transform="translate(384 91)">
+    <rect width="150" height="72" rx="12" fill="#12171D" stroke="#26303A"/>
+    <text x="18" y="31" fill="#00C8FF" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">3</text>
+    <text x="18" y="53" fill="#C9D1D9" font-family="Segoe UI,Arial,sans-serif" font-size="12">áreas de enfoque</text>
+  </g>
+</svg>
