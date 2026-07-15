@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="340" viewBox="0 0 800 340" role="img" aria-labelledby="title desc"><title id="title">Curitrack</title><desc id="desc">Operación industrial · datos · trazabilidad</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080A0D"/><stop offset="1" stop-color="#12171D"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#32D583"/><stop offset="1" stop-color="#F4B740"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#26303A" stroke-width="1"/></pattern></defs><rect width="800" height="340" rx="28" fill="url(#bg)"/><rect width="800" height="340" rx="28" fill="url(#grid)" opacity=".52"/><circle cx="690" cy="40" r="130" fill="#32D583" opacity=".07"/><g font-family="Inter,Segoe UI,Arial,sans-serif"><text x="52" y="80" fill="#32D583" font-size="14" font-weight="750" letter-spacing="3">PROJECT CASE</text><text x="52" y="126" fill="#E8EDF2" font-size="32" font-weight="800">Curitrack</text><text x="52" y="159" fill="#89939E" font-size="16">Operación industrial · datos · trazabilidad</text><rect x="52" y="196" width="286" height="2" fill="url(#a)"/><text x="52" y="239" fill="#E8EDF2" font-size="15" font-weight="650">Interfaces · datos · sistemas reales</text><text x="52" y="272" fill="#89939E" font-size="13">Benjamin Ortega / selected work</text></g>
+<g transform="translate(420 45)">
+ <rect width="330" height="246" rx="24" fill="#111A19" stroke="#2A4941"/>
+ <rect x="22" y="22" width="84" height="202" rx="14" fill="#172622"/>
+ <rect x="124" y="22" width="184" height="58" rx="14" fill="#172622"/>
+ <rect x="124" y="98" width="88" height="126" rx="14" fill="#172622"/>
+ <rect x="230" y="98" width="78" height="126" rx="14" fill="#172622"/>
+ <path d="M142 58h91m-91 0h112" stroke="#32D583" stroke-width="8" stroke-linecap="round"/>
+ <path d="M145 196l18-36 18 17 18-52" fill="none" stroke="#F4B740" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+ <g fill="#32D583"><circle cx="269" cy="130" r="13"/><circle cx="269" cy="166" r="13"/><circle cx="269" cy="202" r="13"/></g>
+ <path d="M43 54h40M43 82h29M43 110h40M43 138h24" stroke="#83A59C" stroke-width="6" stroke-linecap="round" opacity=".7"/>
+</g></svg>

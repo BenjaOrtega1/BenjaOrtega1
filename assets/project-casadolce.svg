@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="340" viewBox="0 0 800 340" role="img" aria-labelledby="title desc"><title id="title">Casa Dolce</title><desc id="desc">Catálogo conectado · Supabase</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080A0D"/><stop offset="1" stop-color="#12171D"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#FFB6C8"/><stop offset="1" stop-color="#FF5C72"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#26303A" stroke-width="1"/></pattern></defs><rect width="800" height="340" rx="28" fill="url(#bg)"/><rect width="800" height="340" rx="28" fill="url(#grid)" opacity=".52"/><circle cx="690" cy="40" r="130" fill="#FFB6C8" opacity=".07"/><g font-family="Inter,Segoe UI,Arial,sans-serif"><text x="52" y="80" fill="#FFB6C8" font-size="14" font-weight="750" letter-spacing="3">PROJECT CASE</text><text x="52" y="126" fill="#E8EDF2" font-size="32" font-weight="800">Casa Dolce</text><text x="52" y="159" fill="#89939E" font-size="16">Catálogo conectado · Supabase</text><rect x="52" y="196" width="286" height="2" fill="url(#a)"/><text x="52" y="239" fill="#E8EDF2" font-size="15" font-weight="650">Interfaces · datos · sistemas reales</text><text x="52" y="272" fill="#89939E" font-size="13">Benjamin Ortega / selected work</text></g>
+<g transform="translate(430 54)">
+ <rect width="310" height="228" rx="24" fill="#171218" stroke="#493744"/>
+ <path d="M63 167h184l-15 35H78z" fill="#FFB6C8" fill-opacity=".16" stroke="#FFB6C8"/>
+ <rect x="90" y="115" width="130" height="58" rx="18" fill="#F8E9E4"/>
+ <path d="M90 130c22 16 38-15 57 1s37-17 73 2" fill="none" stroke="#FF5C72" stroke-width="8" stroke-linecap="round"/>
+ <rect x="112" y="82" width="86" height="39" rx="14" fill="#FFF7F2"/>
+ <circle cx="155" cy="74" r="13" fill="#FF5C72"/>
+ <path d="M46 45h105m-105 18h67" stroke="#C8B1B8" stroke-width="7" stroke-linecap="round" opacity=".7"/>
+</g></svg>

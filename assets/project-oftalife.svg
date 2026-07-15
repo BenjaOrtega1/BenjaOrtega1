@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="340" viewBox="0 0 800 340" role="img" aria-labelledby="title desc"><title id="title">OftaLife</title><desc id="desc">Experiencia web · motion · 3D</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080A0D"/><stop offset="1" stop-color="#12171D"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#00C8FF"/><stop offset="1" stop-color="#FF3B3B"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#26303A" stroke-width="1"/></pattern></defs><rect width="800" height="340" rx="28" fill="url(#bg)"/><rect width="800" height="340" rx="28" fill="url(#grid)" opacity=".52"/><circle cx="690" cy="40" r="130" fill="#00C8FF" opacity=".07"/><g font-family="Inter,Segoe UI,Arial,sans-serif"><text x="52" y="80" fill="#00C8FF" font-size="14" font-weight="750" letter-spacing="3">PROJECT CASE</text><text x="52" y="126" fill="#E8EDF2" font-size="32" font-weight="800">OftaLife</text><text x="52" y="159" fill="#89939E" font-size="16">Experiencia web · motion · 3D</text><rect x="52" y="196" width="286" height="2" fill="url(#a)"/><text x="52" y="239" fill="#E8EDF2" font-size="15" font-weight="650">Interfaces · datos · sistemas reales</text><text x="52" y="272" fill="#89939E" font-size="13">Benjamin Ortega / selected work</text></g>
+<g transform="translate(430 54)">
+ <rect width="310" height="228" rx="24" fill="#12171D" stroke="#33404C"/>
+ <rect x="18" y="18" width="274" height="22" rx="11" fill="#1D2630"/>
+ <circle cx="34" cy="29" r="4" fill="#FF3B3B"/><circle cx="49" cy="29" r="4" fill="#00C8FF"/>
+ <ellipse cx="155" cy="126" rx="104" ry="56" fill="none" stroke="#00C8FF" stroke-width="3"/>
+ <ellipse cx="155" cy="126" rx="58" ry="56" fill="none" stroke="#FF3B3B" stroke-width="2" opacity=".75"/>
+ <circle cx="155" cy="126" r="21" fill="#00C8FF" fill-opacity=".14" stroke="#00C8FF" stroke-width="3"/>
+ <path d="M40 194h150m-150 14h94" stroke="#89939E" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+</g></svg>
