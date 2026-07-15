@@ -196,22 +196,24 @@ He trabajado en un ecosistema con catálogo público, panel administrativo, prod
 
 <table>
 <tr>
-<td width="50%">
-  <img
-    alt="Estadísticas de GitHub de Benjamin Ortega"
-    src="https://github-readme-stats.vercel.app/api?username=BenjaOrtega1&show_icons=true&hide_border=true&theme=transparent&locale=es&rank_icon=github&cache_seconds=86400"
-  />
+<td width="50%" valign="top">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-overview-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-overview-light.svg">
+    <img width="100%" alt="Resumen del perfil público de GitHub de Benjamin Ortega" src="./assets/github-overview-dark.svg">
+  </picture>
 </td>
-<td width="50%">
-  <img
-    alt="Lenguajes principales de Benjamin Ortega"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaOrtega1&layout=compact&hide_border=true&theme=transparent&langs_count=6&cache_seconds=86400"
-  />
+<td width="50%" valign="top">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-languages-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-languages-light.svg">
+    <img width="100%" alt="Lenguajes y enfoque técnico de Benjamin Ortega" src="./assets/github-languages-dark.svg">
+  </picture>
 </td>
 </tr>
 </table>
 
-<sub>Estas tarjetas resumen repositorios públicos y no representan porcentajes de dominio profesional.</sub>
+<sub>Resumen estático basado en los repositorios públicos actuales. No representa porcentajes de dominio profesional.</sub>
 
 ## Actividad
 
