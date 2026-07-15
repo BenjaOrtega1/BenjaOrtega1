@@ -194,28 +194,36 @@ He trabajado en un ecosistema con catálogo público, panel administrativo, prod
 
 ## GitHub en números
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BenjaOrtega1&show_icons=true&hide_border=true&bg_color=00000000&title_color=00C8FF&text_color=E8EDF2&icon_color=FF3B3B&locale=es">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=BenjaOrtega1&show_icons=true&hide_border=true&bg_color=00000000&title_color=007F9E&text_color=12171D&icon_color=E33333&locale=es">
-    <img height="175" alt="Estadísticas de GitHub de Benjamin Ortega" src="https://github-readme-stats.vercel.app/api?username=BenjaOrtega1&show_icons=true&hide_border=true&theme=transparent&locale=es">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaOrtega1&layout=compact&hide_border=true&bg_color=00000000&title_color=00C8FF&text_color=E8EDF2&langs_count=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaOrtega1&layout=compact&hide_border=true&bg_color=00000000&title_color=007F9E&text_color=12171D&langs_count=6">
-    <img height="175" alt="Lenguajes principales de Benjamin Ortega" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaOrtega1&layout=compact&hide_border=true&theme=transparent&langs_count=6">
-  </picture>
-</div>
+<table>
+<tr>
+<td width="50%">
+  <img
+    alt="Estadísticas de GitHub de Benjamin Ortega"
+    src="https://github-readme-stats.vercel.app/api?username=BenjaOrtega1&show_icons=true&hide_border=true&theme=transparent&locale=es&rank_icon=github&cache_seconds=86400"
+  />
+</td>
+<td width="50%">
+  <img
+    alt="Lenguajes principales de Benjamin Ortega"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaOrtega1&layout=compact&hide_border=true&theme=transparent&langs_count=6&cache_seconds=86400"
+  />
+</td>
+</tr>
+</table>
 
 <sub>Estas tarjetas resumen repositorios públicos y no representan porcentajes de dominio profesional.</sub>
 
 ## Actividad
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BenjaOrtega1/BenjaOrtega1/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BenjaOrtega1/BenjaOrtega1/output/github-snake.svg">
-  <img width="100%" alt="Animación del historial de contribuciones de Benjamin Ortega" src="https://raw.githubusercontent.com/BenjaOrtega1/BenjaOrtega1/output/github-snake.svg">
-</picture>
+<p align="center">
+  <img
+    width="100%"
+    alt="Animación del historial de contribuciones de Benjamin Ortega"
+    src="https://github.com/BenjaOrtega1/BenjaOrtega1/blob/output/github-snake-dark.svg?raw=true"
+  />
+</p>
+
+<sub>Si la animación no aparece al principio, entra a <strong>Actions</strong> y ejecuta manualmente el workflow <strong>Generate contribution snake</strong>. La primera ejecución crea la rama <code>output</code>.</sub>
 
 ## Hablemos
 
